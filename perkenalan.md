@@ -2,7 +2,7 @@
 
 Nama Lengkap : Livia Indriana Sari
 NPM : 2313020159
-Program Studi : (misalnya Sistem Informasi / Informatika)  
+Program Studi : Teknik Informatika  
 
 Minat bidang IT :
 Web Development
